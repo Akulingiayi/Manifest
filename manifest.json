@@ -1,0 +1,38 @@
+{
+  "name": "Mathematics",
+  "short_name": "Sheetmath",
+  "start_url": "https://www.sheetmath.com/",
+  "display": "standalone",
+  "background_color": "#fff",
+  "theme_color": "#2B0C93",
+  "description": "Sheetmath-Membahas tentang Matematika seperti Matriks, kalkulus, logika, fungsi, integral, turunan dan contoh soal Matematika.",
+  "icons": [{
+    "src": "https://1.bp.blogspot.com/-Gz9dSMmJcuQ/Xh0GIjQMkhI/AAAAAAAADRU/8t4MEKlcsq85QsPV2S_PReag2tQrLZVKgCLcBGAsYHQ/s1600/android-icon-48x48.png",
+    "sizes": "48x48",
+    "type": "image/png"
+  }, {
+    "src": "https://cdn.staticaly.com/img/1.bp.blogspot.com/-q_fCtfqqrBU/Xhz96bNPrAI/AAAAAAAADPw/qHRfuKvrpQ4atbIY72c4hH_lwtomJd1qwCLcBGAsYHQ/s1600/android-icon-72x72.png",
+    "sizes": "72x72",
+    "type": "image/png"
+  }, {
+    "src": "https://cdn.staticaly.com/img/1.bp.blogspot.com/-D762hM77aCU/Xh0BzLKkq-I/AAAAAAAADRA/GkdzWQo5gos0Dq4d3w16EPkthby_5T6qQCLcBGAsYHQ/s1600/android-icon-96x96.png",
+    "sizes": "96x96",
+    "type": "image/png"
+  }, {
+    "src": "https://cdn.staticaly.com/img/1.bp.blogspot.com/-gaYSrylluew/Xhz_XnjPW0I/AAAAAAAADQQ/zrdBV-9GgV0WESsetYSAyF6o80pyXNU6ACLcBGAsYHQ/s1600/android-icon-144x144.png",
+    "sizes": "144x144",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-ozkniHmuGto/X8kAEWC_F_I/AAAAAAAAD4o/8ECfuwmHDIEf8hv-lq-Gq1s6IQkQLYCJQCLcBGAsYHQ/s0/Untitled-1.png",
+    "sizes": "168x168",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-1wjY97_4LkI/Xh0A5ruSEBI/AAAAAAAADQ0/5i6dsVJAFYAwODgoA9giJJXkE4t8JN7pwCLcBGAsYHQ/s1600/android-icon-192x192.png",
+    "sizes": "192x192",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-gmqWI_g4KyM/X8kAjMbWkyI/AAAAAAAAD4w/ImVoCKqO3WcPkvZZJpTn8ih5smwbkjVxwCLcBGAsYHQ/s0/Ikon%252B512X512%252B%2525281%252529.png",
+    "sizes": "512x512",
+    "type": "image/png"
+  }]
+}
